@@ -1,0 +1,3 @@
+Aula 07
+yield - faz com que os conteudos de outra view sejam visualizados nesse template
+Concerns são pra evitar repetições, meto o metódo lá e posso importar em qualquer lugar
